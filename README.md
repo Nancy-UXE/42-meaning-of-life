@@ -1,1 +1,1 @@
-# 42-meaning-of-life
+Forty-two is the ASCII code for the symbol * also known as the asterisk. This symbol is often thought to translate to anything or everything. In this instance, 42 = everything, the meaning of life.
